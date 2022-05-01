@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\bin\Debug\net6.0\StageProject.Services.deps.json
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\bin\Debug\net6.0\StageProject.Services.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\bin\Debug\net6.0\ref\StageProject.Services.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\bin\Debug\net6.0\StageProject.Services.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\bin\Debug\net6.0\StageProject.Models.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\bin\Debug\net6.0\StageProject.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\bin\Debug\net6.0\StageProject.Models.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\bin\Debug\net6.0\StageProject.Repositories.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\StageProject.Services.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\StageProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\StageProject.Services.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\StageProject.Services.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\StageProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\StageProject.Services.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\StageProject.Services.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\ref\StageProject.Services.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Services\obj\Debug\net6.0\StageProject.Services.pdb

@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\bin\Debug\net6.0\StageProject.Repositories.deps.json
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\bin\Debug\net6.0\StageProject.Repositories.runtimeconfig.json
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\bin\Debug\net6.0\StageProject.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\bin\Debug\net6.0\ref\StageProject.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\bin\Debug\net6.0\StageProject.Repositories.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\bin\Debug\net6.0\StageProject.Models.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\bin\Debug\net6.0\StageProject.Models.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\ref\StageProject.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Repositories\obj\Debug\net6.0\StageProject.Repositories.genruntimeconfig.cache

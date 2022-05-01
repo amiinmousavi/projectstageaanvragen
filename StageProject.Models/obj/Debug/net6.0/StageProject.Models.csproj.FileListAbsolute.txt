@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\bin\Debug\net6.0\StageProject.Models.deps.json
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\bin\Debug\net6.0\StageProject.Models.runtimeconfig.json
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\bin\Debug\net6.0\StageProject.Models.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\bin\Debug\net6.0\ref\StageProject.Models.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\bin\Debug\net6.0\StageProject.Models.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\StageProject.Models.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\StageProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\StageProject.Models.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\StageProject.Models.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\StageProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\StageProject.Models.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\ref\StageProject.Models.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\StageProject.Models.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\projectstageaanvragen\StageProject.Models\obj\Debug\net6.0\StageProject.Models.genruntimeconfig.cache
