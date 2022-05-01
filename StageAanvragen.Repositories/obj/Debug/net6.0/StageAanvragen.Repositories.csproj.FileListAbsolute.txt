@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\bin\Debug\net6.0\StageAanvragen.Repositories.deps.json
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\bin\Debug\net6.0\StageAanvragen.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\bin\Debug\net6.0\ref\StageAanvragen.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\bin\Debug\net6.0\StageAanvragen.Repositories.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\bin\Debug\net6.0\StageAanvragen.Models.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\bin\Debug\net6.0\StageAanvragen.Models.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\ref\StageAanvragen.Repositories.dll
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.pdb
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\bin\Debug\net6.0\StageAanvragen.Repositories.runtimeconfig.json
+C:\Users\Gebruiker\Documents\Vives Stageaanvragen\project\StageAanvragen.Repositories\obj\Debug\net6.0\StageAanvragen.Repositories.genruntimeconfig.cache
