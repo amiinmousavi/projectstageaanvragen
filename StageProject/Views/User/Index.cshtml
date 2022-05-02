@@ -1,0 +1,15 @@
+﻿@model StageProject.ViewModels.UserVM;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p>Ik ben</p>
+    @using (Html.BeginForm("Index", "User"))
+    {
+        @Html.RadioButton("option", "werkgever") <span>Werkgever</span>
+        @Html.RadioButton("option", "student") <span>Student</span>
+        @Html.RadioButton("option", "docent") <span>Docent</span>
+
+        <div><input type="submit" value="Registreren"/></div>
+    }
