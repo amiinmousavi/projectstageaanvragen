@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using StageProject.Models;
 using System.Diagnostics;
 
@@ -18,10 +19,17 @@ namespace StageProject.Controllers
             return View();
         }
 
+        [Authorize(Roles = "Werkgever")]
+        public IActionResult Stagevoorstel()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
         }
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

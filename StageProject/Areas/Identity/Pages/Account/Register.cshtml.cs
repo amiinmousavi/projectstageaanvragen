@@ -74,8 +74,15 @@ namespace StageProject.Areas.Identity.Pages.Account
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
+            /// 
+
+            [Required(ErrorMessage = "Wat is je naam?")]
+            [Display(Name = "Naam")]
+            public string Naam { get; set; }
+
             [Required]
             [EmailAddress]
+            [RegularExpression(@"[0-9a-zA-Z]+[.]{0,1}[0-9a-zA-Z]+@[0-9a-zA-Z]+\.[a-zA-Z]{2,3}", ErrorMessage = "Voer een geldige e-mailadres in.")]
             [Display(Name = "Email")]
             public string Email { get; set; }
 
@@ -83,19 +90,42 @@ namespace StageProject.Areas.Identity.Pages.Account
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
+            /// 
             [Required]
-            [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+            [StringLength(100, ErrorMessage = "De {0} moet minstens {2} en maximum {1} karakters bevatten.", MinimumLength = 6)]
+            [RegularExpression(@"^(((\+|00)32[ ]?(?:\(0\)[ ]?)?)|0){1}(4(60|[789]\d)\/?(\s?\d{2}\.?){2}(\s?\d{2})|(\d\/?\s?\d{3}|\d{2}\/?\s?\d{2})(\.?\s?\d{2}){2})$")]
+            public string Telefoonnummer{ get; set; }
+
+            [Required(ErrorMessage = "Geef een beschrijving van je bedrijf.")]
+            [Display(Name = "Beschrijving bedrijf")]
+            public string BeschrijvingBedrijf { get; set; }
+
+            [Required(ErrorMessage = "Wat is je adres?")]
+            public string Adres { get; set; }
+
+            [Required(ErrorMessage = "Wat is je postcode?")]
+            [RegularExpression(@"^[1-9]{1}\d{3}", ErrorMessage = "Voer een geldige postcode in.")]
+            public string Postcode { get; set; }
+
+            [Required(ErrorMessage = "Wat is je plaatsnaam?")]
+            [StringLength(25, ErrorMessage = "De {0} moet minstens {2} en maximum {1} karakters bevatten.", MinimumLength = 2)]
+            public string Plaatsnaam { get; set; }
+
+            [Required(ErrorMessage = "Wat is je wachtwoord?")]
+            [StringLength(100, ErrorMessage = "De {0} moet minstens {2} en maximum {1} karakters bevatten.", MinimumLength = 6)]
             [DataType(DataType.Password)]
-            [Display(Name = "Password")]
+            [Display(Name = "Wachtwoord")]
             public string Password { get; set; }
 
             /// <summary>
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
+            /// 
+
             [DataType(DataType.Password)]
-            [Display(Name = "Confirm password")]
-            [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+            [Display(Name = "Bevestig wachtwoord")]
+            [Compare("Password", ErrorMessage = "De wachtwoorden komen niet met elkaar overeen..")]
             public string ConfirmPassword { get; set; }
         }
 

@@ -26,4 +26,8 @@
     <ProjectReference Include="..\StageProject.Services\StageProject.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Identity\Pages\Account\Manage\Werkgever\" />
+  </ItemGroup>
+
 </Project>
